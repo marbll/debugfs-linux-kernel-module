@@ -1,0 +1,7 @@
+#define DEBUGFS_DIRNAME "lab2os"
+#define DEBUGFS_VFS_FILENAME "vfs"
+#define DEBUGFS_PTREGS_FILENAME "ptregs"
+#define DEBUGFS_ARGS_FILENAME "args"
+#define DEBUGFS_VFS_PATH "/sys/kernel/debug/lab2os/vfs"
+#define DEBUGFS_PTREGS_PATH "/sys/kernel/debug/lab2os/ptregs"
+#define DEBUGFS_ARGS_PATH "/sys/kernel/debug/lab2os/args"
